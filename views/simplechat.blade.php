@@ -51,7 +51,7 @@
 	<hr />
 	<form id="form" class="form-inline">
 		<div class="input-append">
-			<input class="span4" name="text" size="16" type="text"><button class="btn" type="button">Post!</button>
+			<input class="span4" name="text" size="16" type="text"><button class="btn" type="submit">Post!</button>
 		</div>
 	</form>
 @endsection
